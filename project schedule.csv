@@ -1,0 +1,138 @@
+WBS,Task Name,Duration,Start,Finish,Predecessors,Resource Names
+0,NAIT End of Term LAN Party,48 days,Mon 26-03-02,Wed 26-05-06,,
+1,   Research LAN Party,5 days,Mon 26-03-02,Fri 26-03-06,,Jawan
+1.1,      Research equipment needed,1 day,Mon 26-03-02,Mon 26-03-02,,Jawan
+1.1.1,         Research network and power requirements for equipment,1 day,Mon 26-03-02,Mon 26-03-02,,Jawan
+1.1.2,         Research peripherals required,1 day,Mon 26-03-02,Mon 26-03-02,,Jawan
+1.2,         Research how to book room at NAIT,3 days,Mon 26-03-02,Wed 26-03-04,,Karen
+1.2.1,            Inquire about capacity limits,3 days,Mon 26-03-02,Wed 26-03-04,,Karen
+1.2.2,            Inquire about equipment that can be provided by NAIT,3 days,Mon 26-03-02,Wed 26-03-04,,Karen
+1.3,      Research Possible Sponsors,1 day,Mon 26-03-02,Mon 26-03-02,,Bora
+1.3.1,         Create a sponsor pitch deck,1 day,Tue 26-03-03,Tue 26-03-03,,Bora
+1.4,      Research possible vendors,1 day,Mon 26-03-02,Mon 26-03-02,,Kevin
+1.5,      Research games that will be played,1 day,Mon 26-03-02,Mon 26-03-02,,Douglas
+1.5.1,         Research any DLC that would be required,1 day,Mon 26-03-02,Mon 26-03-02,,Dylan
+1.6,      Research ways to distribute survey,2 days,Mon 26-03-02,Tue 26-03-03,,Douglas
+1.7,      Research NAIT IT policies,1 day,Mon 26-03-02,Mon 26-03-02,,Douglas
+1.8,      Research NAIT food policies,1 day,Mon 26-03-02,Mon 26-03-02,,Douglas
+1.9,      Research volunteer recruitment channels,1 day,Mon 26-03-02,Mon 26-03-02,,Karen
+1.9.1,         Research volunteer roles required,1 day,Mon 26-03-02,Mon 26-03-02,,Karen
+1.1,      Research NAIT security policies,1 day,Mon 26-03-02,Mon 26-03-02,,Kevin
+1.11,      Research prizes,1 day,Mon 26-03-02,Mon 26-03-02,,Kevin
+1.12,      Compile costs,1 day,Fri 26-03-06,Fri 26-03-06,"2,4,8,10,11,12,19",Kevin
+1.0.M,   Research LAN Party complete,0 days,Fri 26-03-06,Fri 26-03-06,,
+2,   Plan LAN Party,34 days,Thu 26-03-05,Tue 26-04-21,1,Dylan
+2.1,      Create volunteer roles,1 day,Mon 26-03-09,Mon 26-03-09,"16,17",Dylan
+2.1.2,         Create volunteer training manual,1 day,Mon 26-03-09,Mon 26-03-09,,Dylan
+2.1.3,         Create a discord for volunteer communication,1 day,Mon 26-03-09,Mon 26-03-09,,Dylan
+2.2,      Volunteer recruitment,27 days,Mon 26-03-16,Tue 26-04-21,23,Bora
+2.2.1,         Confirm volunteers and availability,1 day,Mon 26-04-20,Mon 26-04-20,,Bora
+2.2.2,         Create volunteer schedule,1 day,Tue 26-04-21,Tue 26-04-21,,Bora
+2.3,      Create a run of show schedule,1 day,Fri 26-04-17,Fri 26-04-17,21,Dylan
+2.3.1,         Print run of show schedule for event and post on discord and social media,1 day,Mon 26-04-20,Mon 26-04-20,,Dylan
+2.4,      Create a safety plan,1 day,Mon 26-03-09,Mon 26-03-09,,Douglas
+2.4.1,         Print safety plan,1 day,Mon 26-03-09,Mon 26-03-09,,Douglas
+2.5,      Create a code of conduct,3 days,Thu 26-03-12,Mon 26-03-16,,Douglas
+2.5.1,         Print code of conduct for event,1 day,Thu 26-03-12,Thu 26-03-12,,Douglas
+2.5.2,         Post code of conduct on event page,1 day,Mon 26-03-16,Mon 26-03-16,,Douglas
+2.6,      Create registration form,2 days,Wed 26-03-11,Thu 26-03-12,,Karen
+2.6.1,         Create QR code for registration form for marketing material,1 day,Thu 26-03-12,Thu 26-03-12,,Karen
+2.7,      Create food and beverage survey,2 days,Wed 26-03-11,Thu 26-03-12,15,Karen
+2.7.1,         Create QR code for beverage survey for marketing material,1 day,Thu 26-03-12,Thu 26-03-12,,Karen
+2.8,      Create pre and post event stress survey,1 day,Tue 26-04-14,Tue 26-04-14,,Karen
+2.9,      Create quest cards,1 day,Wed 26-04-15,Wed 26-04-15,,Karen
+2.1,      Contact potential sponsors,6 days,Fri 26-03-06,Fri 26-03-13,"8,9",Kevin
+2.10.1,         Create sponsor tracking log,1 day,Fri 26-03-06,Fri 26-03-06,8,Kevin
+2.10.2,         Get sponsor logos for marketing materials,1 day,Fri 26-03-13,Fri 26-03-13,,Kevin
+2.11,      Create an incident report form,1 day,Fri 26-04-17,Fri 26-04-17,,Dylan
+2.12,      Create a budget,1 day,Mon 26-03-09,Mon 26-03-09,"42,20,19",Dylan
+2.12.1,         Determine amount for contingency fund,1 day,Mon 26-03-09,Mon 26-03-09,20,Dylan
+2.13,      Create social media account,1 day,Mon 26-03-09,Mon 26-03-09,,Jawan
+2.14,      Create a risk mitigation plan,1 day,Mon 26-03-09,Mon 26-03-09,,Jawan
+2.15,      Create a walkthrough checklist,1 day,Thu 26-03-05,Thu 26-03-05,"5,6,7,10,11,12,14,15",Jawan
+2.0.M,   Plan LAN Party Complete,0 days,Thu 26-04-23,Thu 26-04-23,,
+3,   Venue,37 days,Mon 26-03-09,Tue 26-04-28,"10,14,15,51,5,6,7,18",Douglas
+3.1,      Book Venue with NAIT,1 day,Mon 26-03-09,Mon 26-03-09,5,Douglas
+3.1.1,         Finalize venue booking,1 day,Mon 26-03-16,Mon 26-03-16,,Douglas
+3.2,      Create layout plan for the event,1 day,Thu 26-04-23,Thu 26-04-23,,Douglas
+3.2.1,         Verify power outlet locations,1 day,Thu 26-04-23,Thu 26-04-23,,Douglas
+3.3,      Conduct pre-event walkthrough,1 day,Thu 26-04-23,Thu 26-04-23,50,Douglas
+3.3.1,         Go through walkthrough checklist,1 day,Thu 26-04-23,Thu 26-04-23,50,Douglas
+3.3.2,         Document any preexisting damage,1 day,Thu 26-04-23,Thu 26-04-23,50,Douglas
+3.4,      Conduct post event walkthrough,1 day,Tue 26-04-28,Tue 26-04-28,"97,57,58,59",Douglas
+3.4.1,         Go through walkthrough checklist,1 day,Tue 26-04-28,Tue 26-04-28,50,Douglas
+3.0.M,   Venue Complete,0 days,Fri 26-04-24,Fri 26-04-24,,
+4,   Marketing,35 days,Mon 26-03-09,Fri 26-04-24,"33,37,39,44,46,53,54",Bora
+4.1,      Create marketing assets,1 day,Mon 26-03-09,Mon 26-03-09,,Bora
+4.1.1,         Create Posters,1 day,Mon 26-03-09,Mon 26-03-09,,Bora
+4.1.1.1,            Print posters,1 day,Mon 26-03-09,Mon 26-03-09,,Bora
+4.1.2,         Create graphics for social media and discord posts,1 day,Tue 26-03-10,Tue 26-03-10,48,Bora
+4.2,"      Post marketing assets around NAIT, discord, and social media",33 days,Wed 26-03-11,Fri 26-04-24,"65,66,67,48",Bora
+4.2.1,         Launch registration form,1 day,Wed 26-03-11,Wed 26-03-11,36,Bora
+4.2.2,         Weekly event reminders on discord and social media,30 days,Mon 26-03-16,Fri 26-04-24,"48,67",Bora
+4.4,      Create event signage,1 day,Mon 26-04-20,Mon 26-04-20,,Bora
+4.4.1,         Create station signage,1 day,Mon 26-04-20,Mon 26-04-20,,Bora
+4.0.M,   Marketing Complete,0 days,Fri 26-04-24,Fri 26-04-24,,
+5,   Equipment,30 days,Mon 26-03-16,Fri 26-04-24,"63,2,3,4,10,11,12,46",Kevin
+5.1,      Send out request for borrowing equipment on discord and social media,21 days,Mon 26-03-16,Mon 26-04-13,"68,69,70",Kevin
+5.2,"      Secure rentals for any missing consoles, peripherals, or tv's",1 day,Mon 26-04-13,Mon 26-04-13,10,Kevin
+5.3,      Procure Equipment,6 days,Fri 26-04-10,Fri 26-04-17,46,Kevin
+5.3.1,         Procure switches,6 days,Fri 26-04-10,Fri 26-04-17,3,Douglas
+5.3.2,         Procure HDMI and Ethernet cables,6 days,Fri 26-04-10,Fri 26-04-17,4,Douglas
+5.3.3,         Procure gaffers tape,6 days,Fri 26-04-10,Fri 26-04-17,,Douglas
+5.3.4,         Procure games,6 days,Fri 26-04-10,Fri 26-04-17,11,Douglas
+5.3.4.1,            Procure any DLC that is required,6 days,Fri 26-04-10,Fri 26-04-17,12,Douglas
+5.3.5,         Procure cable mats,6 days,Fri 26-04-10,Fri 26-04-17,,Kevin
+5.3.6,         Procure extension cables,6 days,Fri 26-04-10,Fri 26-04-17,"3,4",Kevin
+5.3.7,         Procure power bars,6 days,Fri 26-04-10,Fri 26-04-17,"3,4",Kevin
+5.3.8,         Procure volunteer lanyards,6 days,Fri 26-04-10,Fri 26-04-17,26,Kevin
+5.3.9,         Procure hand sanitizer and disinfectant wipes,6 days,Fri 26-04-10,Fri 26-04-17,,Kevin
+5.4,      Create equipment inventory sheet,1 day,Tue 26-04-14,Tue 26-04-14,"75,76,77",Kevin
+5.5,      Label all equipment and cables,1 day,Thu 26-04-23,Thu 26-04-23,77,Kevin
+5.5.1,         Ensure all borrowed equipment has contact information,1 day,Thu 26-04-23,Thu 26-04-23,"75,76",Kevin
+5.6,      Procure Prizes,1 day,Thu 26-04-23,Thu 26-04-23,19,Dylan
+5.7,      Procure food and beverage,1 day,Thu 26-04-23,Thu 26-04-23,38,Karen
+5.8,      Pre event tech test,1 day,Thu 26-04-23,Thu 26-04-23,,Jawan
+5.8.1,         Power load test,1 day,Thu 26-04-23,Thu 26-04-23,,Bora
+5.8.2,         Network connectivity test,1 day,Thu 26-04-23,Thu 26-04-23,,Bora
+5.0.M,   Equipment Complete,0 days,Fri 26-04-24,Fri 26-04-24,,
+6,   Hosting LAN Party,2 days,Fri 26-04-24,Mon 26-04-27,"73,74,88,89,93,96",Group 6
+6.1,      Load in equipment,1 hr,Fri 26-04-24,Fri 26-04-24,96,Bora
+6.2,      Physical setup,4 hrs,Fri 26-04-24,Fri 26-04-24,"98,96",Douglas
+6.2.1,         Setup furniture,8 hrs,Fri 26-04-24,Fri 26-04-24,"53,54",Douglas
+6.2.2,         Setup gaming stations,8 hrs,Fri 26-04-24,Fri 26-04-24,"75,76",Kevin
+6.2.3,         Cable management,8 hrs,Fri 26-04-24,Fri 26-04-24,"79,80,83,84,85",Kevin
+6.2.4,         Setup food and beverage table,0.5 hrs,Fri 26-04-24,Fri 26-04-24,92,Kevin
+6.2.5,         Final equipment and network test,1 hr,Fri 26-04-24,Fri 26-04-24,,Kevin
+6.3,      Assign volunteers their roles,1.5 hrs,Fri 26-04-24,Fri 26-04-24,108,Dylan
+6.3.1,         Have safety meeting with volunteers,0.5 hrs,Fri 26-04-24,Fri 26-04-24,31,Dylan
+6.3.2,         Train volunteers,1.5 hrs,Fri 26-04-24,Fri 26-04-24,24,Dylan
+6.4,      Manage check in,8 hrs,Fri 26-04-24,Fri 26-04-24,114,Karen
+6.4.1,         Hand out quest cards,8 hrs,Fri 26-04-24,Fri 26-04-24,41,Karen
+6.4.1.1,            Take completed quest cards,8 hrs,Fri 26-04-24,Fri 26-04-24,,Karen
+6.4.2,         Remind guests about pre-event survey,8 hrs,Fri 26-04-24,Fri 26-04-24,40,Karen
+6.5,      Create event incident reports as needed,8 hrs,Fri 26-04-24,Fri 26-04-24,45,Jawan
+6.6,      Prize draw,1 hr,Fri 26-04-24,Fri 26-04-24,91,Jawan
+6.7,      Post event survey,1 hr,Fri 26-04-24,Fri 26-04-24,115,Karen
+6.8,      Event teardown,2 hrs,Fri 26-04-24,Fri 26-04-24,,Kevin
+6.8.1,         Return borrowed equipment,1 day,Fri 26-04-24,Fri 26-04-24,"75,76",Kevin
+6.8.2,         Return rented equipment,1 day,Mon 26-04-27,Mon 26-04-27,90,Kevin
+6.0.M,   Hosting LAN Party Complete,0 days,Mon 26-04-27,Mon 26-04-27,,
+7,   Post Event,8 days,Fri 26-04-24,Wed 26-05-06,118,Karen
+7.1,      Budget reconciliation,3 days,Mon 26-04-27,Wed 26-04-29,118,Karen
+7.1.1,         Collect all receipts ,1 day,Mon 26-04-27,Mon 26-04-27,118,Karen
+7.1.2,         Update budget spreadsheet,1 day,Tue 26-04-28,Tue 26-04-28,121,Karen
+7.1.3,         Calculate final total + Remaining funds ,1 day,Wed 26-04-29,Wed 26-04-29,122,Karen
+7.2,      Survey & Feedback analysis,5 days,Mon 26-04-27,Fri 26-05-01,118,Karen
+7.2.1,         Monitor Survey Responses,5 days,Fri 26-04-24,Fri 26-05-01,"111,114",Karen
+7.2.2,         Send email reminder for survey,4 days,Mon 26-04-27,Thu 26-04-30,,Karen
+7.2.3,         Summarize key metrics ,1 day,Mon 26-04-27,Mon 26-04-27,,Karen
+7.3,      Final Closeout,1 day,Mon 26-04-27,Mon 26-04-27,118,Karen
+7.3.1,"         Publish/ Share event highlights (photos, recap)",1 day,Mon 26-04-27,Mon 26-04-27,118,Karen
+7.3.2,         Send thank you notes to stakeholders,1 day,Mon 26-04-27,Mon 26-04-27,118,Karen
+7.4,      Analyze event incident reports,1 day,Mon 26-04-27,Mon 26-04-27,112,Dylan
+7.5,      Create event report,8 days,Mon 26-04-27,Wed 26-05-06,118,Jawan
+7.5.1,         Compile Event statistics,1 day,Mon 26-05-04,Mon 26-05-04,124,Jawan
+7.5.2,         Add photos and media highlights ,1 day,Tue 26-04-28,Tue 26-04-28,128,Jawan
+7.5.3,         Finalize PDF event report,1 day,Tue 26-05-05,Tue 26-05-05,"133,134",Jawan
+7.0.M,   Post Event Complete,0 days,Wed 26-05-06,Wed 26-05-06,,
